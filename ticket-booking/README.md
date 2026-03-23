@@ -4,4 +4,5 @@ A simple ticket booking system written in C.
 
 ## Features
 - Book tickets
-- Display details
+- Display details of booking info
+- Basic User Interactions 
